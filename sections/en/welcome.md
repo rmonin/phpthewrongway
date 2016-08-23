@@ -14,4 +14,5 @@ Feel free to contribute.
 
 * [Danish](http://www.phpthewrongway.com/da/)
 * [English](http://www.phpthewrongway.com/)
+* [French](http://www.phpthewrongway.com/fr/)
 * [Spanish](http://www.phpthewrongway.com/es/)
